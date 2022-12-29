@@ -9,3 +9,5 @@
 [第二个模型](/SimpleMobileNet.py)为基于 MobileNetV1 简化而来的模型
 
 [第三个模型](/ResNet18.py)为从PyTorch导入的 ResNet18 模型
+
+模型训练见 [train.py](/train.py)
